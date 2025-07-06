@@ -1,6 +1,5 @@
 <p align="center">
 <h1><h1>
-</p>
 <p align="center">
   <b>LmaxYT</b>
   <br>
